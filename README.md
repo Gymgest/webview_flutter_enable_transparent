@@ -1,3 +1,2 @@
 # webview_flutter_enable_transparent
-
-flutter webview新增透明背景功能
+webview_flutter加入可配置透明背景色功能
