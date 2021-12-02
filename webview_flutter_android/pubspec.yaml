@@ -21,7 +21,7 @@ dependencies:
     sdk: flutter
   webview_flutter_platform_interface:
     git:
-      url: https://github.com/WxqKb/webview_flutter_enable_transparent.git
+      url: git@gitlab.gz.cvte.cn:gymgest/mobile/plugins/webview_flutter_enable_transparent.git
       ref: main
       path: webview_flutter_platform_interface
 

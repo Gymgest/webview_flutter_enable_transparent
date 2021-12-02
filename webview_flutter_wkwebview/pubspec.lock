@@ -227,8 +227,8 @@ packages:
     description:
       path: webview_flutter_platform_interface
       ref: main
-      resolved-ref: "3e3a9d9a3bea54a6fd4ab262468b2b87108c7dfa"
-      url: "https://github.com/WxqKb/webview_flutter_enable_transparent.git"
+      resolved-ref: "93b896fb95863619ce3b35af656b2b76dbf165b7"
+      url: "git@gitlab.gz.cvte.cn:gymgest/mobile/plugins/webview_flutter_enable_transparent.git"
     source: git
     version: "1.2.0"
 sdks:
